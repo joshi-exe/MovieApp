@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="something_wrong">Something went wrong. Please try again!</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="lbl_movies">Movies</string>
+    <string name="divider">Divider</string>
+    <string name="no_data">No data found.</string>
+    <string name="search_movies">Search movies</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="lbl_movie_name">Movie Name</string>
+    <string name="lbl_ratings">Ratings</string>
+    <string name="rating_star_icon">rating_star_icon</string>
+    <string name="frame">frame</string>
+    <string name="na">NA</string>
+    <string name="divider_bullet">•</string>
+    <string name="lbl_running_time">1h22m</string>
+    <string name="lbl_genre">Sci-Fi</string>
+    <string name="lbl_release_date">14/08/1947</string>
+    <string name="lbl_ratings_score">Rating Score:</string>
+    <string name="lbl_total_votes">Total Votes:</string>
+    <string name="lbl_votes">Votes</string>
+    <string name="lbl_overview">Overview</string>
+    <string name="lbl_cast">Cast</string>
+    <string name="lbl_cast_sample">One as Two\nTwo as Three\nThree as Four\nFour as Five\nFive as Ded</string>
+    <string name="something_wrong_fetching_details">Something went wrong while fetching details. Try again later!</string>
+    <string name="lbl_movie_details">Movie Details</string>
+</resources>
